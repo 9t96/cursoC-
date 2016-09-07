@@ -1,0 +1,6 @@
+E:\casasasas\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\casasasas\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\casasasas\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\casasasas\ConsoleApplication3\obj\Debug\claseTres.csprojResolveAssemblyReference.cache
+E:\casasasas\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\casasasas\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

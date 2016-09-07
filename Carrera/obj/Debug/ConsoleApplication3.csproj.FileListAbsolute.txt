@@ -1,0 +1,9 @@
+D:\000PRACTICA\primeraClase\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\000PRACTICA\primeraClase\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\000PRACTICA\primeraClase\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\000PRACTICA\primeraClase\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\000PRACTICA\primeraClase\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\000PRACTICA\primeraClase\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+E:\casasasas\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\casasasas\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\casasasas\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
