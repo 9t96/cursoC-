@@ -1,4 +1,4 @@
 # cursoC-
-iarp
+se iarp
 
 
